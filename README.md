@@ -1,4 +1,4 @@
-# MERN AMAZONA
+# MERNN AMAZONA
 
 ![amazona](/frontend/public/images/amazona.jpg)
 
